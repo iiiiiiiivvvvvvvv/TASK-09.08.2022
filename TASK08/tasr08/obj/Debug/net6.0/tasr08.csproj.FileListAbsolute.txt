@@ -1,0 +1,15 @@
+C:\Users\oligo\Desktop\TASK08\tasr08\bin\Debug\net6.0\tasr08.exe
+C:\Users\oligo\Desktop\TASK08\tasr08\bin\Debug\net6.0\tasr08.deps.json
+C:\Users\oligo\Desktop\TASK08\tasr08\bin\Debug\net6.0\tasr08.runtimeconfig.json
+C:\Users\oligo\Desktop\TASK08\tasr08\bin\Debug\net6.0\tasr08.dll
+C:\Users\oligo\Desktop\TASK08\tasr08\bin\Debug\net6.0\tasr08.pdb
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.csproj.AssemblyReference.cache
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.AssemblyInfoInputs.cache
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.AssemblyInfo.cs
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.csproj.CoreCompileInputs.cache
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.dll
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\refint\tasr08.dll
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.pdb
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\tasr08.genruntimeconfig.cache
+C:\Users\oligo\Desktop\TASK08\tasr08\obj\Debug\net6.0\ref\tasr08.dll
